@@ -4,7 +4,7 @@ Desenvolvedor de software focado em interfaces criativas, animação na web e de
 
 ## Projeto principal
 
-### [Monster Experience](https://github.com/jmarcelosn1/monster-experience)
+### [Monster 3D Experience](https://github.com/jmarcelosn1/monster-3d-experience)
 
 Experiência 3D guiada por scroll: uma lata renderizada em WebGL, sete versões de produto e um roteiro inteiro conduzido pela rolagem da página. three.js puro, GSAP com ScrollTrigger, pipeline de assets reproduzível e um `CLAUDE.md` que registra cada decisão de direção para o agente de código.
 
